@@ -1,0 +1,2 @@
+       txtName.setText("");
+       txtNumber.setText("");
